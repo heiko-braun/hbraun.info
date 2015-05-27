@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Heiko Braun 
+tagline:             'Software Engineer'
+description:         ''
+url:                 http://localhost
+#baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Heiko Braun
+  url:               https://twitter.com/heiko_braun
+  email:             
+
+# Custom vars
+version:             1.0.0
