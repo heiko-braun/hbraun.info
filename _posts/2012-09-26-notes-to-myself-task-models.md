@@ -9,7 +9,7 @@ categories:
   - Notes
 format: aside
 ---
-<a href="http://hbraun.info/2012/09/notes-to-myself-task-models/" rel="bookmark" title="Permalink to Notes to myself: Task Models">
+<a href="/2012/09/notes-to-myself-task-models/" rel="bookmark" title="Permalink to Notes to myself: Task Models">
 
 <p>
   MBUI &#8211; Task Models

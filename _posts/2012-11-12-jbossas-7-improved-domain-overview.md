@@ -15,6 +15,6 @@ A preview of the features to be included the management console 1.5.0:
 
 The new overview allows to to see larger domains at a glance and easily interact with it (restart groups, etc):
 
-[<img src="http://hbraun.info/wp-content/uploads/2012/11/Screen-Shot-2012-11-12-at-8.38.27-AM-300x278.png" alt="" title="Domain Overview" width="300" height="278" class="aligncenter size-medium wp-image-358" />][1]
+[<img src="/wp-content/uploads/2012/11/Screen-Shot-2012-11-12-at-8.38.27-AM-300x278.png" alt="" title="Domain Overview" width="300" height="278" class="aligncenter size-medium wp-image-358" />][1]
 
- [1]: http://hbraun.info/wp-content/uploads/2012/11/Screen-Shot-2012-11-12-at-8.38.27-AM.png
+ [1]: /wp-content/uploads/2012/11/Screen-Shot-2012-11-12-at-8.38.27-AM.png

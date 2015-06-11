@@ -9,7 +9,7 @@ categories:
   - Wildfly
 format: aside
 ---
-<a href="http://hbraun.info/2012/11/home-sweet-home/" rel="bookmark" title="Permalink to Home sweet home">
+<a href="/2012/11/home-sweet-home/" rel="bookmark" title="Permalink to Home sweet home">
 
 <p>
   Console Project Homepage

@@ -23,13 +23,13 @@ While the former has been provided in a reasonable way, the later has been reall
 
 Atop of that we&#8217;ve added some filename filters that should greatly simplify working with a large set of deployments.
 
-[<img class="aligncenter size-medium wp-image-212" title="Domain Deployments" src="http://hbraun.info/wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.50.42-PM-300x243.png" alt="" width="300" height="243" />][3]
+[<img class="aligncenter size-medium wp-image-212" title="Domain Deployments" src="/wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.50.42-PM-300x243.png" alt="" width="300" height="243" />][3]
 
 ## Configuration Browser
 
 The configuration browser is the first all purpose tool we are throwing into the mix. It allows you to browse the actual model descriptions easily (learning purposes) and to inspect actual configuration values of node within the tree. We had this pending for quiet some time and it can be considered a first step towards something like an expert mode within the console (imagine forms being added). But we think it&#8217;s valuable on it&#8217;s own, hence we added it to 1.4.0.
 
-[<img class="aligncenter size-medium wp-image-215" title="Configuration Browser" src="http://hbraun.info/wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.55.54-PM-300x243.png" alt="" width="300" height="243" />][4]
+[<img class="aligncenter size-medium wp-image-215" title="Configuration Browser" src="/wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.55.54-PM-300x243.png" alt="" width="300" height="243" />][4]
 
 &nbsp;
 
@@ -37,16 +37,16 @@ The configuration browser is the first all purpose tool we are throwing into the
 
 We&#8217;ve had support for [expression values][5] as part of the model for quiet some time, but the ability to resolve the actual values has been missing so far. To complement expression support we&#8217;ve added a tool that allows you to resolve expressions from within the console.
 
-[<img class="aligncenter size-medium wp-image-227" title="Expression Values" src="http://hbraun.info/wp-content/uploads/2012/08/expression_value-300x100.png" alt="" width="300" height="100" />][6]
+[<img class="aligncenter size-medium wp-image-227" title="Expression Values" src="/wp-content/uploads/2012/08/expression_value-300x100.png" alt="" width="300" height="100" />][6]
 
 It&#8217;s opened directly from attributes that carry expression values (i.e. &#8220;${tx.node:1}&#8221;) and will automatically resolve values on all servers (in case you are running domain mode).
 
-[<img class="aligncenter size-medium wp-image-228" title="Expression Resolver" src="http://hbraun.info/wp-content/uploads/2012/08/resolved-300x238.png" alt="" width="300" height="238" />][7]
+[<img class="aligncenter size-medium wp-image-228" title="Expression Resolver" src="/wp-content/uploads/2012/08/resolved-300x238.png" alt="" width="300" height="238" />][7]
 
  [1]: https://github.com/jbossas/console
  [2]: https://github.com/jbossas/console/wiki/1.4.0-Release-Notes
- [3]: http://hbraun.info/wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.50.42-PM.png
- [4]: http://hbraun.info/wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.55.54-PM.png
+ [3]: /wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.50.42-PM.png
+ [4]: /wp-content/uploads/2012/08/Screen-Shot-2012-08-07-at-1.55.54-PM.png
  [5]: https://docs.jboss.org/author/display/AS71/Expressions
- [6]: http://hbraun.info/wp-content/uploads/2012/08/expression_value.png
- [7]: http://hbraun.info/wp-content/uploads/2012/08/resolved.png
+ [6]: /wp-content/uploads/2012/08/expression_value.png
+ [7]: /wp-content/uploads/2012/08/resolved.png

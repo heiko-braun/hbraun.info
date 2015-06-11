@@ -37,7 +37,7 @@ Some of terms above directly imply skill-sets, but most of them don’t. I know 
     </p>
     
     <h2>
-      <a href="http://hbraun.info/wp-content/uploads/2012/05/ux_layers.png"><img class="aligncenter size-medium wp-image-177" title="User Experience Elements" src="http://hbraun.info/wp-content/uploads/2012/05/ux_layers-193x300.png" alt="" width="193" height="300" /></a>
+      <a href="/wp-content/uploads/2012/05/ux_layers.png"><img class="aligncenter size-medium wp-image-177" title="User Experience Elements" src="/wp-content/uploads/2012/05/ux_layers-193x300.png" alt="" width="193" height="300" /></a>
     </h2>
     
     <p style="text-align: center;">
@@ -77,7 +77,7 @@ Some of terms above directly imply skill-sets, but most of them don’t. I know 
       </p>
       
       <div>
-         <a href="http://hbraun.info/wp-content/uploads/2012/05/4elements.png"><img class="aligncenter size-full wp-image-179" title="User Centric View" src="http://hbraun.info/wp-content/uploads/2012/05/4elements.png" alt="" width="259" height="194" /></a>
+         <a href="/wp-content/uploads/2012/05/4elements.png"><img class="aligncenter size-full wp-image-179" title="User Centric View" src="/wp-content/uploads/2012/05/4elements.png" alt="" width="259" height="194" /></a>
       </div>
       
       <div>

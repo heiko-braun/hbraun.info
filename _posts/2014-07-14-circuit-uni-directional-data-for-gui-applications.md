@@ -23,7 +23,7 @@ For a general introduction and problem statement we&#8217;d recommend to look at
 
 View components (presenters in this case) dispatch actions through central dispatcher. The dispatcher coordinates the processing of actions across stores. Stores process the data or state change associated with an action and emit change events once they are done. Interested parties (presenters) read the data of the store and update the views accordingly.
 
-[<img src="http://hbraun.info/wp-content/uploads/2014/07/circuit-300x227.png" alt="circuit data flow" class="aligncenter size-large wp-image-510" />][4]
+[<img src="/wp-content/uploads/2014/07/circuit-300x227.png" alt="circuit data flow" class="aligncenter size-large wp-image-510" />][4]
 
 ### <a class="anchor" href="#actions" name="user-content-actions"></a>Actions
 
@@ -100,4 +100,4 @@ When Stores complete the processing of an Action, they acknowledge the Action th
  [1]: https://github.com/hal/circuit
  [2]: http://facebook.github.io/react/docs/flux-overview.html
  [3]: http://facebook.github.io/react/index.html
- [4]: http://hbraun.info/wp-content/uploads/2014/07/circuit.png
+ [4]: /wp-content/uploads/2014/07/circuit.png
