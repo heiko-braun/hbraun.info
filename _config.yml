@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Heiko Braun 
 tagline:             'Software Engineer'
 description:         ''
-url:                 http://heiko-braun.github.io
+#url:                 http://heiko-braun.github.io
 baseurl:             ''
 paginate:            5
 
