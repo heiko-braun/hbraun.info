@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.1
-install: bundle exec gem install jekyll-paginate
+#install: bundle exec gem install jekyll-paginate
 script:
   - bundle exec jekyll build
   #- bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
