@@ -2,10 +2,9 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               Heiko Braun 
+title:               Heiko Braun
 tagline:             'Software Engineer'
 description:         ''
 #url:                 http://heiko-braun.github.io
@@ -16,7 +15,7 @@ paginate:            5
 author:
   name:              Heiko Braun
   url:               https://twitter.com/heiko_braun
-  email:             
+  email:
 
 # Custom vars
 version:             1.0.0
